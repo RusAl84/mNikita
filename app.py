@@ -38,6 +38,7 @@ def Getnikita(num):
         <p>Который сделан на основе готового шаблона</p>
         <nav>
             <ul>
+            
             <li><a href="index.html">Эта страница</a></li>
             <li><a href="catalog.html">Другая страница</a></li>
             </ul>
